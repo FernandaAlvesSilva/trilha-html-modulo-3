@@ -1,19 +1,16 @@
 # Módulo 3 - Trilha HTML
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+**Título:** Recriando Wikipedia, com um layout melhor :
 
 ## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+O objetivo deste desafio foi treinar a estruturação de um site, aplicando conhecimentos adquiridos sobre semântica e acessibilidade.
 
 ## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+Neste repositório, realizei o desafio de recriar a Wikipedia com um layout melhor, utilizando uma estrutura básica já pré-montada e aplicando um pouco de CSS para deixá-la mais apresentável.
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+Fiquei à vontade para explorar e criar da forma que achei interessante, sempre com o objetivo de aprender e me divertir com o processo. Segui as instruções do vídeo para facilitar o entendimento de como proceder.
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
-
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/fernanda-alves-605a76242/)
 
 
